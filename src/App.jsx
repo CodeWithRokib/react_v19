@@ -1,4 +1,5 @@
 import Login from "./components/Login"
+import NetflixSeries from "./components/NetflixSeries"
 
 function App() {
 
@@ -6,6 +7,8 @@ function App() {
     <>
      <h1>Hello Rokibul Hasan Rokib</h1>
      <Login/>
+     <NetflixSeries />
+
     </>
   )
 }
